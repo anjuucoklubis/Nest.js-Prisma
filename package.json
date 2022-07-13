@@ -1,8 +1,8 @@
 {
   "name": "api-ci3",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Nest.js with prisma ORM database",
+  "author": "Anju Lubis",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
